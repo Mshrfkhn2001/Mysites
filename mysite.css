@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    text-align: center;
+    /* font-family:Verdana, sans-serif; */
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    /* width: 10%;
+    margin: 0 auto 0 auto; */
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #66bfbf;     
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4.2rem;
+}
+h3{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+/* div{
+    background-color: #b2ddd4;
+} */
+.top{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+/* .middle{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+} */
+.buttom{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.pro{
+    text-decoration: underline;
+}
+.buttomcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px; 
+}
+.topcloud{
+     position: absolute;
+    right: 300px;
+    top: 50px;
+   
+}
+.mountain{
+    background-color: #e4f9f5;
+}
+/* .top img{
+    background-color: #e4f9f5;
+} */
+.prog{
+    color: #66bfbf; 
+    font-size: 20px;
+}
+.middle{
+    width: 100vw;
+}
+.hey{
+    margin-top: 10px;
+    font-size: 35px;
+}
+.my{
+    font-size: 35px;
+    color: black;
+}
+/* .intro{
+    margin-top: 0;
+} */
+.get{
+    font-size: 30px;
+    color: black;
+}
+.skillsrow{
+    width: 50%;
+    margin: auto;
+}
+.chilli{
+    width: 25%;
+    /* float: left; */
+}
